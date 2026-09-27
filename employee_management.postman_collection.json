@@ -267,7 +267,7 @@
           "response": []
         },
         {
-          "name": "New Request",
+          "name": "Location_Delete",
           "request": {
             "method": "DELETE",
             "header": [],
